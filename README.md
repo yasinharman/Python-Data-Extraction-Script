@@ -46,7 +46,7 @@ playwright install
 
 
 ```bash
-python main.py
+python script.py
 ```
 
 - **The script will**
@@ -95,7 +95,7 @@ batch_size	            Number of links processed per batch         1000
 ## Project Structure
 ```bash
 .
-├── main.py              # Main script file
+├── script.py              # Main script file
 ├── links.csv            # Output file containing found links
 └── README.md            # Project documentation
 ```
